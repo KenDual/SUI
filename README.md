@@ -20,7 +20,8 @@ However, these traditional criteria have **inherent limitations**. They can be s
 * Enhance financial inclusion by enabling access to credit for individuals with limited or no formal credit history.
 * Offer a flexible framework that can be adapted or extended for various industries and use cases.
 
-## Why This Matters
+### Video Demo
+https://youtu.be/DardbDbU6Ng
 
-Traditional credit scoring systems often fail to recognize the true financial capacity of individuals who do not fit conventional profiles. **Intensifier** tackles this gap by leveraging alternative signals and intelligent modeling to create a more holistic view of credit behavior — enabling fairer, data-driven decisions that benefit both lenders and borrowers.
+
 ---
